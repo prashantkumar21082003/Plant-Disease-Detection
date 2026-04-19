@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "leaf-upload-placeholder",
+      "description": "A placeholder image of a green leaf for the upload area",
+      "imageUrl": "https://images.unsplash.com/photo-1572298570848-b982a0634a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGxlYWZ8ZW58MHx8fHwxNzcxMzQzNzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green leaf"
+    }
+  ]
+}
