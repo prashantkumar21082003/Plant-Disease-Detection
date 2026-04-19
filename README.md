@@ -127,7 +127,8 @@ This project uses a general AI model (Gemini) for disease detection. Results may
 
 ## 👨‍💻 Author
 
-* Your Name
+* Prashant Kumar
+* prashantkumar147258@gmail.com
 
 ---
 
